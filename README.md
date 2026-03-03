@@ -30,15 +30,9 @@ Open [index.html](https://snail3d.github.io/AstroNeon/) directly in your browser
 - 📈 Score tracking with increasing difficulty
 - 🌙 Beautiful starfield background
 
-## Screenshots
+## Screenshot
 
-```
-    >>
-     \|/
-    --O--
-     /|\
-    <<
-```
+![AstroNeon Game](screenshot.png)
 
 ## Tech Stack
 
